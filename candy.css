@@ -1,0 +1,169 @@
+.myName{
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 38px;
+     padding: 40px;
+     text-align: center;
+     background-color: beige;
+     color: black;
+     font-size: 30px;
+     
+}
+
+
+.footer{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    padding: 30px;
+    text-align: center;
+    background-color: beige;
+    color: black;
+    font-size: 30px;
+
+}
+
+
+.button{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+
+}
+
+.p2Index{
+    text-align: center;
+}
+
+.quote{
+    text-align: center;
+}
+.IMG2{
+    float: right;
+}
+
+.aboutMeHeader{  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    padding: 10px;
+    text-align: center;
+    background-color: violet;
+    color: black;
+    font-size: 30px;
+
+}
+.box1{
+    border: 3px  black;
+    flex: auto;
+    color: white;
+    padding: 10px;
+    flex-direction: column;
+    background-color: black;
+    margin: 10px;
+    text-align: center;
+
+
+}
+.box2{
+    border: 3px  black;
+    flex: auto;
+    color: white;
+    padding: 10px;
+    flex-direction: column;
+    background-color: black;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.portfolioHeader{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 38px;
+     padding: 10px;
+     text-align: center;
+     background-color: lavender;
+     color: black;
+     font-size: 30px;
+}
+
+.portfolioFooter{
+    font-size: 38px;
+    padding: 10px;
+    text-align: center;
+    background-color:  black;
+    color: white;
+    font-size: 30px;
+}
+
+.portfolioButton{
+    border: none;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.portfolioButtonImage{
+    height: 50px;
+    width: 55px;
+}
+
+.aboutMeFooter{
+    font-size: 38px;
+    padding: 10px;
+    text-align: center;
+    background-color: lavender;
+    color: white;
+    font-size: 30px;
+}
+.aboutMeButton{
+    border: none;
+    color: white;
+    padding: 1px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.aboutMeFooterImg{
+    height: 50px;
+    width: 55px;
+}
+
+
+.outerGroup{
+    display: flex;
+    border: 3px solid white;
+    overflow: auto;
+    max-height: 400px;
+    flex-wrap: non-wrap;
+}
+
+.outerGroupTwo{
+    display: flex;
+    border: 3px solid white
+    overflow: auto;
+    max-height: 400px;
+  
+
+}
+.sector{
+    text-align: center;
+}
+
+.textTwo{
+    text-align: center;
+}
+
+
+
